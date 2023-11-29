@@ -1,0 +1,167 @@
+body {
+    background-color: rgb(174, 205, 205);
+}
+*{
+font-family: Arial, Helvetica, sans-serif;    text-align: center;
+}
+
+div.attribute {
+    width: 300px;
+    height: 300px;
+background: linear-gradient(90deg, rgba(116,81,171,1) 0%, rgba(110,100,198,1) 35%, rgba(104,119,224,1) 100%);
+    padding: 20px;
+   position: relative;
+    margin-left: 620px;
+    margin-top: 200px;
+    border-radius: 40px;
+}
+
+h1, h6, p {
+    color: rgb(249, 248, 248); /* Set text color to white or a color that contrasts well with the background */
+    margin: 0; /* Remove default margin for better alignment */
+}
+
+/* Adjustments to the h1, h6, and p elements */
+h1 {
+    font-size: 1.5em; /* Adjust font size as needed */
+    margin-bottom: 10px; /* Add some space between h1 and h6 */
+}
+
+h6 {
+    font-size: 1em; /* Adjust font size as needed */
+    margin-bottom: 10px; /* Add some space between h6 and p */
+}
+
+p {
+    font-size: 0.9em; /* Adjust font size as needed */
+    margin: 0; /* Remove default margin for better alignment */
+}
+
+.attributeR{
+    width: 300px;
+    height: 300px;
+    background-color: hsl(0, 0%, 99%);
+    padding: 20px;
+   
+    margin-left: 920px;
+    margin-top: -340px;
+    border-radius: 0px  25px 25px 0px;
+}
+.maan{
+    position: absolute;
+    color: black;
+    left: 65%;
+}
+.img1{
+    position: absolute;
+    left: 65%;
+}
+.textt{
+    position: absolute;
+    left: 67%;
+bottom: 55%;
+color: orange;
+}
+.textt1{
+    position: absolute;
+    left: 67%;
+bottom: 47%;
+color: red;
+}
+.textt2{
+    position: absolute;
+    left: 67%;
+bottom: 39%;
+color: green;
+}
+.textt3{
+    position: absolute;
+    left: 67%;
+bottom: 31%;
+color: rgb(92, 92, 222);
+}
+
+.rate{
+    position: absolute;
+    left: 75%;
+bottom: 55%;  
+}
+.rate1{
+    position: absolute;
+    left: 75%;
+bottom: 47%;  
+}
+.rate2{
+    position: absolute;
+    left: 75%;
+bottom: 39%;
+}
+.rate3{
+    position: absolute;
+    left: 75%;
+bottom: 31%; 
+}
+
+
+
+.bn632-hover {
+    width: 130px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 40px;
+    height: 48px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn20 {
+    background-image: linear-gradient(
+      to right,
+      #667eea,
+      #764ba2,
+      #6b8dd6,
+      #8e37d7
+    );
+    box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+  }
+
+  .sizee{
+size-adjust: 30px; 
+font-size: 50px;
+}
+.para{
+    
+    text-align: center;
+    font-size: medium;
+}
+.effect{
+    position: relative;
+    background: linear-gradient(90deg, rgba(116,81,171,1) 0%, rgba(104,119,224,1) 100%);
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+    align-items: center;
+    text-align: center;
+margin-left: 710px;
+margin-top: -270px;
+}
